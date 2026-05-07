@@ -11,3 +11,6 @@ env/
 
 # VS Code
 .vscode/
+
+# Untitled Notebooks
+Untitled*.ipynb
